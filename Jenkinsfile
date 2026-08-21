@@ -1,6 +1,3 @@
-# Jenkins CI/CD Pipeline
-
-```groovy
 pipeline {
 
     agent any
@@ -86,4 +83,3 @@ pipeline {
         }
     }
 }
-```
